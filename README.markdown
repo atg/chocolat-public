@@ -1,1 +1,1 @@
-# [Go to the issue tracker →](./issues)
+# [Go to the issue tracker →](/fileability/chocolat-public/issues)
