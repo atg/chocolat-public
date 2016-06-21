@@ -1,1 +1,1 @@
-# [Go to the issue tracker →](https://github.com/fileability/chocolat-public/issues)
+# [Go to the issue tracker →](https://github.com/atg/chocolat-public/issues)
